@@ -5,7 +5,7 @@ My name is Fahad Aziz Sakib. I'm a student who is currently studying Computer Sc
 
 ##  Tech Stack 🛠 &nbsp; :
 
-<img alt="Coding" width="30%" src="https://user-images.githubusercontent.com/128050070/230738462-5a66eb3b-fe34-4c35-b7d1-ce0f58dfb82f.gif" align="right"/>
+<img alt="Coding" width="30%" src="https://user-images.githubusercontent.com/128050070/230738462-5a66eb3b-fe34-4c35-b7d1-ce0f58dfb82f.png" align="right"/>
 
 ##### Languages
 ![C](https://img.shields.io/badge/-C-333333?logo=C)
