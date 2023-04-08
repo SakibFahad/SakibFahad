@@ -6,5 +6,7 @@ My name is Fahad Aziz Sakib. I'm a student who is currently studying Computer Sc
 - 🌱 I’m currently learning Programming
 - 💬 Ask me about Myself
 
+##  Tech Stack 🛠 &nbsp; :
 
+<img alt="Coding" width="30%" src="https://raw.githubusercontent.com/SakibFahad/SakibFahad/main/Assets/coding.gif" align="right"/>
 
