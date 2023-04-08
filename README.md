@@ -28,6 +28,6 @@ My name is Fahad Aziz Sakib. I'm a student who is currently studying Computer Sc
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sakibfahad&theme=github-dark&hide_border=true)](https://github.com/SakibFahad)
 
 ## Time spend coding
-[![Net time](https://wakatime.com/badge/user/0a6e89fc-213a-4372-a2b6-d3df86fce603.svg)](https://wakatime.com/@sakibfahad)
+[![Net time](https://wakatime.com/badge/user/bffcf93e-73b0-49e2-bdf8-561efb8e8e5d.svg)](https://wakatime.com/@bffcf93e-73b0-49e2-bdf8-561efb8e8e5d)
 
 [![Detailed](https://github-readme-stats.vercel.app/api/wakatime?username=SakibFahad&custom_title=Detailed+time&layout=compact&theme=dark&hide_rank=false&hide_border=true)](https://wakatime.com/@sakibfahad)
