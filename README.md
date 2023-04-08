@@ -10,3 +10,6 @@ My name is Fahad Aziz Sakib. I'm a student who is currently studying Computer Sc
 
 <img alt="Coding" width="30%" src="https://raw.githubusercontent.com/SakibFahad/SakibFahad/main/Assets/coding.gif" align="right"/>
 
+##### Languages
+![C](https://img.shields.io/badge/-C-333333?logo=C)
+![C++](https://img.shields.io/badge/-C++-333333?logo=cplusplus)
