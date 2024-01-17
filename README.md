@@ -11,7 +11,7 @@ My name is Fahad Aziz Sakib. I'm a student who is currently studying Computer Sc
 ![C](https://img.shields.io/badge/-C-333333?logo=C)
 ![C++](https://img.shields.io/badge/-C++-333333?logo=cplusplus)
 ![Python](https://img.shields.io/badge/-python-333333%3Flogo%3Dpython=python)
-![Java](https://fontawesome.com/icons/java?f=brands&s=solid)
+![Java](<i class='fab fa-java' style='font-size:36px'></i>)
 
 
 ##### Editor & IDE
